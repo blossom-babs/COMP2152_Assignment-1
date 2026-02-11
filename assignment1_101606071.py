@@ -1,5 +1,5 @@
 """
-Author: <YOUR REAL FIRST AND LAST NAME>
+Author: Blossom Babalola
 Assignment: #1
 """
 
